@@ -10,12 +10,12 @@ const ProfilePanel: React.FC = () => {
       <Container>
         <div className="profile-cover"></div>
         <img
-          src="https://github.com/guilhermerodz.png"
+          src="https://github.com/joaopedromata.png"
           alt="Avatar"
           className="profile-picture"
         />
-        <h1>Guilherme Rodz</h1>
-        <h2>Software Engineer @ Rocketseat</h2>
+        <h1>João Pedro Mata</h1>
+        <h2>Math Teacher @ Telemont</h2>
 
         <div className="separator"></div>
 
